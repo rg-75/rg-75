@@ -5,4 +5,4 @@ What distinguishes this tool is that it is not profitable</p>
 <p>1- <code>$ sudo git clone xxxxxx </code></p>
 <p>2- <code>$ cd rg-75 </code></p>
 <p>3- <code>$ sudo php rg-75.php </code></p>
-<img src="https://ibb.co/JCxKXLF">
+<img src="https://i.ibb.co/GFs0gw3/pizap-com15656628735741.jpg" alt="pizap-com15656628735741" border="0" />
